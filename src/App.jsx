@@ -1,7 +1,11 @@
+import { GlobalProvider } from "./context/GlobalState"
+
 
 function App() {
   return (
-<div>HelloWorld</div>
+    <GlobalProvider>
+{/* <div className="App"></div> */}
+    </GlobalProvider>
   )
 }
 
