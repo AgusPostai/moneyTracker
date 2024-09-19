@@ -1,12 +1,16 @@
-import { GlobalProvider } from "./context/GlobalState"
-
+import { GlobalProvider } from "./context/GlobalState";
+import Balance from "./components/Balance";
+import Header from "./components/Header";
+import TransactionForm from "./components/TransactionForm";
 
 function App() {
   return (
     <GlobalProvider>
-{/* <div className="App"></div> */}
+      <TransactionForm />
+      <Balance />
+      <Header />
     </GlobalProvider>
   )
 }
 
-export default App
+export default App;
