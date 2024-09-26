@@ -1,0 +1,28 @@
+Luego de ejecutar JasperSfot >> File >> New >> JaperReport >> Blank A4
+
+ // Eso dependiendo lo que nos digan que usan pero es para seleccionar la plantilla de reporte.
+
+Confirmamos poniendo NEXT >> Cambiamos el nombre seleccionando lo que dice Blank_A4(o lo que sea que diga antes del punto de jnxml) y poniendo el nombre que nosotros queramos >> Finish.
+
+
+Luego lo que viene acá es todo edición de la plantilla.
+
+OUTLINE:
+Podemos eliminar elementos como Column Header y Footer Header.
+
+Basic Element
+Todo se usa arrastrándolo
+Static Text: Excelente para textos estáticos.	
+Break: Salto de página.
+Rectangle, circle, line: Formas geométricas aplicables en el reporte.
+
+
+Composite Elements:
+ 
+Image: Arrastramos image al title. Image se edita desde properties(click derecho). Lo podemos usar para poner la imagen de la empresa por ejemplo.
+
+
+Current Date y Time: Son buenísimos para que se genere solo un componente actualizable automáticamente y no de manera manual.
+
+
+ // Algo sobre properties………
