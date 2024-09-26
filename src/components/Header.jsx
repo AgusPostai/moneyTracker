@@ -1,6 +1,4 @@
-
-    
-    const Header = () => {
+const Header = () => {
       return (
         <div>
              <h1>Este el balance</h1>
@@ -9,5 +7,5 @@
       )
     }
     
-    export default Header
+    export default Header;
     

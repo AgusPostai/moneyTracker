@@ -1,10 +1,10 @@
 const TransactionForm = () => {
-  return (
-    <div>
+    return (
+        <div>
             <h1>Este es el balance</h1>
 
-    </div>
-  )
+        </div>
+    )
 }
 
-export default TransactionForm
+export default TransactionForm;

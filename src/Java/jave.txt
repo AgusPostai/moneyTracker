@@ -1,0 +1,39 @@
+Java es POO es decir que cada clase va a estar compuesta por su nombre, una variable (estado) y un comportamiento (métodos).
+
+
+MAIN:
+La función main es todo lo que va a leer nuestro programa (como en c++).
+SOUT:  se usa para imprimir(es el cout) de c + +. Es la versión abreviada de system.out.println().
+ 
+
+Datos primitivos: int, byte, short, long, float, double, boolean, char. 
+
+
+Void: es lo que nos va a regresar el metodo, es decir que en este caso si dice void es que no nos va a regresar nada. 
+
+PUBLIC: queremos que esté visible, antes de una clase quiere decir que la dejamos completamente pública.
+PRIVATE/PROTECTED: para que no sea visible cuando pasemos los paquetes u otros proyectos.
+
+STATIC: antes del main quiere decir que se puede ejecutar main sin la necesidad de implementar ningun objeto.
+
+
+
+Bucles y condicionales:
+
+IF: igual que en c++.
+FOR : igual que en c++
+WHILE: es igual: generando una variable inicializada en un valor, poniendo bruna condición que en principio se pase y luego aumentamos el valor de la variable para uqe s e vaya actualizando cada vez que entra al bucle.
+TRY-CATCH: es igual que en js, mas que nada para dar una orden que si no se cumple que el catch agarre el error.
+
+
+
+
+
+
+
+
+
+
+
+
+API: es un conjunto de clases de paquetes de fases que haya sido creada para poder usar o no en nuestro proyecto.
